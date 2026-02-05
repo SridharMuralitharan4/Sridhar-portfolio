@@ -52,14 +52,14 @@ Vel’s Institute of Science, Technology and Advanced Studies (VISTAS), Chennai
 - Ethical Hacker — **Cisco Networking Academy**  
 - Communication Skills — **TCS iON**  
 - ISO 27001 Lead Auditor – Information Security — **Mastermind**
-- Ethical Hacking Internship - Jutrm Career Academy 
+- Ethical Hacking Internship - **Jutrm Career Academy**
 
 ---
 
 ## 💻 Internship 
 - Title: Ethical Hacking Internship 
  
- Organization: Jutrm Career Academy 
+ Organization:**Jutrm Career Academy**
 
 ___
 
