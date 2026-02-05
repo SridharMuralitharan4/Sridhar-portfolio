@@ -55,6 +55,12 @@ Vel’s Institute of Science, Technology and Advanced Studies (VISTAS), Chennai
 
 ---
 
+## 💻 Internship 
+- Title: Ethical Hacking Internship 
+  Organization: Jutrm Career Academy 
+
+___
+
 ## 💡 Areas of Interest
 - Ethical Hacking & Penetration Testing  
 - Capture The Flag (CTF) Competitions  
